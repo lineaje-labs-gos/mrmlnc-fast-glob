@@ -1,9 +1,18 @@
 {
   "name": "fast-glob",
-  "version": "3.3.3",
+  "version": "3.3.3-lineaje-01",
   "description": "It's a very fast and efficient glob library for Node.js",
   "license": "MIT",
-  "repository": "mrmlnc/fast-glob",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/mrmlnc-fast-glob"
+  },
   "author": {
     "name": "Denis Malinochkin",
     "url": "https://mrmlnc.com"
