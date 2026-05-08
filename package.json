@@ -86,5 +86,11 @@
     "bench:regression:async": "hereby bench:regression:async",
     "bench:regression:sync": "hereby bench:regression:sync",
     "bench:regression:stream": "hereby bench:regression:stream"
+  },
+  "overrides": {
+    "picomatch": ">=2.3.2"
+  },
+  "resolutions": {
+    "picomatch": ">=2.3.2"
   }
 }
